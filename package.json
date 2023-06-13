@@ -1,6 +1,28 @@
 {
+  "name": "SVG-Maker-Logo",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apatiga/SVG-Maker-Logo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apatiga/SVG-Maker-Logo.git"
+  },
+  "homepage": "https://github.com/apatiga/SVG-Maker-Logo.git",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.5.0"
+    "jest": "^29.4.3"
+  },
+    "scripts": {
+      "test": "jest"
+    }
   }
-}
