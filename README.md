@@ -5,6 +5,9 @@ The application enables the users to enter inputs into an inquirer prompt inorde
 
 ## Challenge 
 Build a Node.js command-line application that takes in user inputs to generates a SVG logo and saves it as "logo.svg" file. In addition, create a walkthrough video that demonstrates its functionality and the passing of all of the tests
+* Node.js
+* Javascript
+* JSON
 
 ## Usage Instructions
 * Open the cloned repository in any source code editor e.g. Visual Studio Code.
